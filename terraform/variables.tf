@@ -1,4 +1,4 @@
-#variables.tf
+#variables
 
 variable "region" {
   description = "AWS region"
